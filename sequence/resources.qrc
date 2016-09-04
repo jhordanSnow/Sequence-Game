@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Cartas">
+        <file>cartas/1_pica.png</file>
+        <file>cartas/2_pica.png</file>
+        <file>cartas/3_pica.png</file>
+        <file>cartas/4_pica.png</file>
+    </qresource>
+</RCC>
